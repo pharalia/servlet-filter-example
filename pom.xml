@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
 
-    <name>Spring AOP Examples</name>
+    <name>Spring Servlet Filter Examples</name>
     <groupId>uk.co.michaeloldroyd</groupId>
     <artifactId>servlet-filter-example</artifactId>
     <version>DEV-SNAPSHOT</version>
